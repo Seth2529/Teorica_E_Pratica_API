@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{FD1D9265-92C3-4A97-9EA5-7BE6BFE1821F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Questões Teóricas", "Questões Teóricas", "{10D2ECA8-05E8-4C6E-A2D8-01C6B5925604}"
+	ProjectSection(SolutionItems) = preProject
+		Exerc1.cs = Exerc1.cs
+		Exerc2.cs = Exerc2.cs
+		Exerc3.cs = Exerc3.cs
+		Exerc4.cs = Exerc4.cs
+		Exerc5.cs = Exerc5.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1D9265-92C3-4A97-9EA5-7BE6BFE1821F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1D9265-92C3-4A97-9EA5-7BE6BFE1821F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1D9265-92C3-4A97-9EA5-7BE6BFE1821F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1D9265-92C3-4A97-9EA5-7BE6BFE1821F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F2A4EC1-E99E-4D65-AB41-D0263E73E6C5}
+	EndGlobalSection
+EndGlobal
